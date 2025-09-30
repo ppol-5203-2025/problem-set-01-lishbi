@@ -17,8 +17,8 @@ This README file provides an overview of the replication materials for this arti
 ## Data
 | File Name  | Description |
 | ------------- |:-------------:|
-|   surveys_data_clean.json    |      |
-|   surveys_data_raw.csv    |      |
+|   surveys_data_clean.json    |   clean survey data   |
+|   surveys_data_raw.csv    |   raw survey data   |
 
 ## Output
 | File Name  | Description |
